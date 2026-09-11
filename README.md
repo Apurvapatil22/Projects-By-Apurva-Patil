@@ -20,12 +20,7 @@ This repository contains my learning projects in C and Python.
 ### 🛠️ Skills Learned
 - C Programming
 - Python Basics
-- Git & GitHub
+- git & github
 
----
-Made with ❤️ by Apurva from Kolad
-Paste karun khali *Commit changes* dab.
 
-Zala ki tujha GitHub `github.com/Apurvapatil22/Projects-By-Apurva-Patil` ekdum professional disel, college la dakhavu shaktes!
-
-Karun zala ki screenshot tak!
+  ------
